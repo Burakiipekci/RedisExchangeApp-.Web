@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4vfaQAMmXvF0zVnRD80hNU4X9bzEC7O3c5vysHdRyL+HJvhFGc5exX7sdwNpVHkrAsebecmJKpvk89tMWTxww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\burak.ipekci\\Documents\\GitHub\\RedisExchangeApp-.Web\\RedisExchangeApı.Web\\RedisExchangeApı.Web\\RedisExchangeApı.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burak.ipekci\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\burak.ipekci\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\burak.ipekci\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
