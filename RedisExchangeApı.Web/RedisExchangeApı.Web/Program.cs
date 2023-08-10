@@ -25,7 +25,7 @@ app.Use(async (context, next) =>
 
     await next(); // Sonraki middleware'e devam et.
 
-    // Bağlantıyı kapat (işlem tamamlandıktan sonra)
+    
 });
 
 app.UseHttpsRedirection();
